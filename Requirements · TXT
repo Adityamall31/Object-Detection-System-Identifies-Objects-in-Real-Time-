@@ -1,0 +1,17 @@
+# Object Detection System – Requirements
+# Project: Aditya Mall
+# Install with: pip install -r requirements.txt
+
+# Core (required)
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Optional – YOLO engine (recommended for best accuracy)
+# Uncomment to enable:
+# ultralytics>=8.0.0     # YOLOv8 → then place yolov8n.pt in project folder
+
+# Optional – MobileNet-SSD engine
+# No extra pip package needed (uses cv2.dnn built into OpenCV)
+# Download model files from:
+#   https://github.com/chuanqi305/MobileNet-SSD
+#   Files needed: deploy.prototxt + mobilenet_iter_73000.caffemodel
