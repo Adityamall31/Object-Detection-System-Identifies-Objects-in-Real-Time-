@@ -1,7 +1,7 @@
 # Object-Detection-System-Identifies-Objects-in-Real-Time-
 
 # Object Detection System – Real-Time Video
-### Project by: Mohd Aadil | Python · OpenCV · YOLOv8 / COCO-SSD / Haar Cascades
+### Project by: Mohd Aditya mall| Python · OpenCV · YOLOv8 / COCO-SSD / Haar Cascades
 
 ---
 
